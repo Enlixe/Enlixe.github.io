@@ -16,49 +16,5 @@
 Fix some bugs.</description>
     </item>
     
-    <item>
-      <title>Web V0.0.4-Alpha</title>
-      <link>https://enlixe.github.io/post/patchs/web/web-v0.0.4-alpha/</link>
-      <pubDate>Tue, 22 Sep 2020 13:23:18 +0700</pubDate>
-      
-      <guid>https://enlixe.github.io/post/patchs/web/web-v0.0.4-alpha/</guid>
-      <description>This is just small update again 🙂.
-What&amp;rsquo;s New ?
- Added Google Adsense :)  </description>
-    </item>
-    
-    <item>
-      <title>Web V0.0.3.5-Alpha</title>
-      <link>https://enlixe.github.io/post/patchs/web/web-v0.0.3.5-alpha/</link>
-      <pubDate>Sat, 05 Sep 2020 04:45:20 +0700</pubDate>
-      
-      <guid>https://enlixe.github.io/post/patchs/web/web-v0.0.3.5-alpha/</guid>
-      <description>This is just small update 🙂.
-I fix :
- Fixed NIGHT MODE (No Reversed Again). Fix Button.  What&amp;rsquo;s New ?
- Changed hosting from this (https://enlixe.netlify.app/) to this (https://enlixe-web.onrender.com/). But u still can use the old web. Added Disqus  </description>
-    </item>
-    
-    <item>
-      <title>Web V0.0.3-Alpha</title>
-      <link>https://enlixe.github.io/post/patchs/web/web-v0.0.3-alpha/</link>
-      <pubDate>Sat, 22 Aug 2020 18:03:40 +0700</pubDate>
-      
-      <guid>https://enlixe.github.io/post/patchs/web/web-v0.0.3-alpha/</guid>
-      <description>What i update ?
-I add :
- Added NIGHT MODE ( Automatically Sync With Condition User ) Added More Button  </description>
-    </item>
-    
-    <item>
-      <title>Web V0.0.2-Alpha</title>
-      <link>https://enlixe.github.io/post/patchs/web/web-v0.0.2-alpha/</link>
-      <pubDate>Sat, 22 Aug 2020 11:42:38 +0700</pubDate>
-      
-      <guid>https://enlixe.github.io/post/patchs/web/web-v0.0.2-alpha/</guid>
-      <description>What i update ? I add :
- Added to GIT and Github ( https://github.com/Enlixe ) Add patch note to see what i workking on :)  </description>
-    </item>
-    
   </channel>
 </rss>
