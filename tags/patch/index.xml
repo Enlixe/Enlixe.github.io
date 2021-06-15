@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patch on Enlixe Web</title>
-    <link>https://enlixe-web.onrender.com/tags/patch/</link>
+    <link>https://enlixe.github.io/tags/patch/</link>
     <description>Recent content in Patch on Enlixe Web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 Nov 2020 17:00:00 +0700</lastBuildDate><atom:link href="https://enlixe-web.onrender.com/tags/patch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Nov 2020 17:00:00 +0700</lastBuildDate><atom:link href="https://enlixe.github.io/tags/patch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bot V0.0.7-Alpha </title>
-      <link>https://enlixe-web.onrender.com/post/patchs/bot/bot-v0.0.7-alpha/</link>
+      <link>https://enlixe.github.io/post/patchs/bot/bot-v0.0.7-alpha/</link>
       <pubDate>Wed, 25 Nov 2020 17:00:00 +0700</pubDate>
       
-      <guid>https://enlixe-web.onrender.com/post/patchs/bot/bot-v0.0.7-alpha/</guid>
+      <guid>https://enlixe.github.io/post/patchs/bot/bot-v0.0.7-alpha/</guid>
       <description>Started patch note.
 Fix some bugs.</description>
     </item>
     
     <item>
       <title>Web V0.0.4-Alpha</title>
-      <link>https://enlixe-web.onrender.com/post/patchs/web/web-v0.0.4-alpha/</link>
+      <link>https://enlixe.github.io/post/patchs/web/web-v0.0.4-alpha/</link>
       <pubDate>Tue, 22 Sep 2020 13:23:18 +0700</pubDate>
       
-      <guid>https://enlixe-web.onrender.com/post/patchs/web/web-v0.0.4-alpha/</guid>
+      <guid>https://enlixe.github.io/post/patchs/web/web-v0.0.4-alpha/</guid>
       <description>This is just small update again 🙂.
 What&amp;rsquo;s New ?
  Added Google Adsense :)  </description>
@@ -29,10 +29,10 @@ What&amp;rsquo;s New ?
     
     <item>
       <title>Web V0.0.3.5-Alpha</title>
-      <link>https://enlixe-web.onrender.com/post/patchs/web/web-v0.0.3.5-alpha/</link>
+      <link>https://enlixe.github.io/post/patchs/web/web-v0.0.3.5-alpha/</link>
       <pubDate>Sat, 05 Sep 2020 04:45:20 +0700</pubDate>
       
-      <guid>https://enlixe-web.onrender.com/post/patchs/web/web-v0.0.3.5-alpha/</guid>
+      <guid>https://enlixe.github.io/post/patchs/web/web-v0.0.3.5-alpha/</guid>
       <description>This is just small update 🙂.
 I fix :
  Fixed NIGHT MODE (No Reversed Again). Fix Button.  What&amp;rsquo;s New ?
@@ -41,10 +41,10 @@ I fix :
     
     <item>
       <title>Web V0.0.3-Alpha</title>
-      <link>https://enlixe-web.onrender.com/post/patchs/web/web-v0.0.3-alpha/</link>
+      <link>https://enlixe.github.io/post/patchs/web/web-v0.0.3-alpha/</link>
       <pubDate>Sat, 22 Aug 2020 18:03:40 +0700</pubDate>
       
-      <guid>https://enlixe-web.onrender.com/post/patchs/web/web-v0.0.3-alpha/</guid>
+      <guid>https://enlixe.github.io/post/patchs/web/web-v0.0.3-alpha/</guid>
       <description>What i update ?
 I add :
  Added NIGHT MODE ( Automatically Sync With Condition User ) Added More Button  </description>
@@ -52,10 +52,10 @@ I add :
     
     <item>
       <title>Web V0.0.2-Alpha</title>
-      <link>https://enlixe-web.onrender.com/post/patchs/web/web-v0.0.2-alpha/</link>
+      <link>https://enlixe.github.io/post/patchs/web/web-v0.0.2-alpha/</link>
       <pubDate>Sat, 22 Aug 2020 11:42:38 +0700</pubDate>
       
-      <guid>https://enlixe-web.onrender.com/post/patchs/web/web-v0.0.2-alpha/</guid>
+      <guid>https://enlixe.github.io/post/patchs/web/web-v0.0.2-alpha/</guid>
       <description>What i update ? I add :
  Added to GIT and Github ( https://github.com/Enlixe ) Add patch note to see what i workking on :)  </description>
     </item>

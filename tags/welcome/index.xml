@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on Enlixe Web</title>
-    <link>https://enlixe-web.onrender.com/tags/welcome/</link>
+    <link>https://enlixe.github.io/tags/welcome/</link>
     <description>Recent content in Welcome on Enlixe Web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 21 Aug 2020 17:54:47 +0700</lastBuildDate><atom:link href="https://enlixe-web.onrender.com/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2020 17:54:47 +0700</lastBuildDate><atom:link href="https://enlixe.github.io/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome To Enlixe Web</title>
-      <link>https://enlixe-web.onrender.com/post/first-post/</link>
+      <link>https://enlixe.github.io/post/first-post/</link>
       <pubDate>Fri, 21 Aug 2020 17:54:47 +0700</pubDate>
       
-      <guid>https://enlixe-web.onrender.com/post/first-post/</guid>
+      <guid>https://enlixe.github.io/post/first-post/</guid>
       <description>Welcome to enlixe web. Here where i post patch note or someting i want post :).
 This web is on development ! See on patch note for the update</description>
     </item>
