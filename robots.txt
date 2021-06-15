@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://enlixe-web.onrender.com/sitemap.xml

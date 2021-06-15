@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beta on Enlixe Web</title>
+    <link>https://enlixe-web.onrender.com/tags/beta/</link>
+    <description>Recent content in Beta on Enlixe Web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 27 Feb 2021 18:00:00 +0700</lastBuildDate><atom:link href="https://enlixe-web.onrender.com/tags/beta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bot V0.1.7-Alpha </title>
+      <link>https://enlixe-web.onrender.com/post/patchs/bot/bot-v0.1.7-beta/</link>
+      <pubDate>Sat, 27 Feb 2021 18:00:00 +0700</pubDate>
+      
+      <guid>https://enlixe-web.onrender.com/post/patchs/bot/bot-v0.1.7-beta/</guid>
+      <description>I was forget to write past patch&amp;hellip;
+Change  Updated ECONOMY  H!bal ~ See ur money / balance Added - Work, Daily, Pay  H!work ~ U can work with 30 % chance of no gaining money, 30 sec cooldown H!daily ~ Get daily money (50 - 100) ( maybe changed soon ) H!pay &amp;lt; tag someone &amp;gt; &amp;lt; amount &amp;gt; ~ Pay someone   Added - Buy, Inventory, Profile, Store  H!</description>
+    </item>
+    
+  </channel>
+</rss>
